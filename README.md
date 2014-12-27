@@ -30,5 +30,6 @@
 ## Tasks
 
 -Randy
-    - Set up two repositories for weather app and twitter app
-    - Set up github page repository
+  - Set up two repositories for weather app and twitter app
+  - Set up github page repository
+  
