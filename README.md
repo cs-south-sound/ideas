@@ -1,3 +1,6 @@
-Tacoma-JS Ideas
 
-Ideas for project
+# Tacoma-JS Ideas
+
+## Ideas for project
+
+- Create a weather app
