@@ -30,6 +30,8 @@
 ## Tasks
 
 - Randy
-  - Set up two repositories for weather app and twitter app
-  - Set up github page repository
+  - Set up two repositories for weather app and twitter app - Done 12/27/2014
+  - Set up github page repository - Done 12/27/2014 [Tacoma-JS](http://tacoma-js.github.io/)
+- Open
+  - Each project has a wiki perhaps we should be using that rather than the readme? At least for the ideas repo?
   
