@@ -10,7 +10,7 @@
   - Enter a hashtag. Connect to Twitter's API. Display a stream of tweets filtered by that hashtag.
 
 ## Possible Server Side Implementations
-- AngularJS frontend using [XMLResume](http://www.xml-resume.com/d/) ![within Drupal](http://www.xml-resume.com/d/sites/all/themes/bootstrap/logo.png)
+- AngularJS frontend using [XMLResume](http://www.xml-resume.com/d/) ![within Drupal](http://www.xml-resume.com/d/sites/all/themes/bootstrap/logo.png) some examples on http://ng-drupal.org
 - using Github Pages to serve client side JS, and running any test cases from a seperate dev machine.
 
 
