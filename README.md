@@ -5,9 +5,9 @@
 ## Ideas for project
 
 - Simple Weather App
-  - Determine position with GPS. Pull from an external weather api (yahoo?). Render weather for current position.
+  - Determine position with GPS. Pull from an external weather api (yahoo?). Render weather for current position. [Yahoo Weather API](https://developer.yahoo.com/weather/)
 - Twitter Stream Reader
-  - Enter a hashtag. Connect to Twitter's API. Display a stream of tweets filtered by that hashtag.
+  - Enter a hashtag. Connect to Twitter's API. Display a stream of tweets filtered by that hashtag. [Twitter API](https://dev.twitter.com/)
 
 ## Possible Server Side Implementations
 - AngularJS frontend using [XMLResume](http://www.xml-resume.com/d/) ![within Drupal](http://www.xml-resume.com/d/sites/all/themes/bootstrap/logo.png) some examples on http://ng-drupal.org
@@ -26,3 +26,9 @@
   - A flexible framework for MVC code.
 - Promises
   - A better way to control async code. Rather then passing around callbacks to functions, promises allow you to pass around a promise for a value that will exist in the future. For example, jQuery's Ajax functions all reture promises.
+
+## Tasks
+
+-Randy
+    - Set up two repositories for weather app and twitter app
+    - Set up github page repository
